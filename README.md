@@ -14,7 +14,7 @@ NodeJS
 ### Installing
 
 ```
-Clone repo.
+git clone https://github.com/bennebFixx/TechnicalTestAPI.git
 cd TechnicalTestAPI
 npm install
 ```
