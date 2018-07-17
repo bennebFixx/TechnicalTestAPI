@@ -1,0 +1,22 @@
+{
+  "name": "technicalTestApi",
+  "version": "1.0.0",
+  "description": "FixxIt Technical Test API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennebFixx/TechnicalTestAPI.git"
+  },
+  "author": "Bernhard Heesen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennebFixx/TechnicalTestAPI/issues"
+  },
+  "homepage": "https://github.com/bennebFixx/TechnicalTestAPI#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
